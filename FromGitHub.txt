@@ -1,4 +1,8 @@
 Test
 
+<<<<<<< HEAD
 
 Text from main branch.
+=======
+Added text on branch 01.
+>>>>>>> branch01

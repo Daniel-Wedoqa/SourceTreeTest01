@@ -6,3 +6,4 @@ Text from main branch.
 =======
 Added text on branch 01.
 >>>>>>> branch01
+Added Text from Branch 02.

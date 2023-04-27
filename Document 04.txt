@@ -1,5 +1,11 @@
 branch 01
+<<<<<<< HEAD
 Test
 Test
 Test
 TEsa
+=======
+
+
+Enter text again on branch 01
+>>>>>>> branch01
